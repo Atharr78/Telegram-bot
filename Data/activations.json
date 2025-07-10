@@ -1,0 +1,157 @@
+[
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "8431521664",
+    "app": "paytmmoney",
+    "status": "pending",
+    "reason": "pending",
+    "timestamp": "2025-07-09T15:39:55.685110",
+    "submission_date": "2025-07-09 15:39:55"
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "8431521664",
+    "app": "angelone",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T15:47:11.040305",
+    "submission_date": "2025-07-09 15:46:50"
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "7483581890",
+    "app": "paytmmoney",
+    "status": "pending",
+    "reason": "pending",
+    "timestamp": "2025-07-09T15:49:48.815996",
+    "submission_date": "2025-07-09 15:49:48"
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "9739450682",
+    "app": "paytmmoney",
+    "status": "pending",
+    "reason": "pending",
+    "timestamp": "2025-07-09T16:00:45.125202",
+    "submission_date": "2025-07-09 16:00:45"
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "9703294437",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T16:30:56.494216",
+    "submission_date": "2025-07-09 16:30:17"
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "6273849597",
+    "app": "paytmmoney",
+    "status": "rejected",
+    "reason": "77",
+    "timestamp": "2025-07-09T18:28:25.399419",
+    "submission_date": "2025-07-09 18:27:52",
+    "message_id": 24
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "7283949507",
+    "app": "paytmmoney",
+    "status": "rejected",
+    "reason": "80",
+    "timestamp": "2025-07-09T18:30:55.283736",
+    "submission_date": "2025-07-09 18:30:41",
+    "message_id": 25
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "4568990467",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T18:36:08.358384",
+    "submission_date": "2025-07-09 18:35:54",
+    "message_id": 26
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "8282828900",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T20:42:28.948658",
+    "submission_date": "2025-07-09 20:42:21",
+    "message_id": 27
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "7373737373",
+    "app": "lemonn",
+    "status": "rejected",
+    "reason": "77",
+    "timestamp": "2025-07-09T20:47:55.220057",
+    "submission_date": "2025-07-09 20:47:36",
+    "message_id": 28
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "2345668888",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T21:34:24.817043",
+    "submission_date": "2025-07-09 21:34:08",
+    "message_id": 29
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "7777775555",
+    "app": "paytmmoney",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-09T23:00:54.193650",
+    "submission_date": "2025-07-09 23:00:13",
+    "message_id": 30
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "7777775555",
+    "app": "angelone",
+    "status": "approved",
+    "reason": "nt",
+    "timestamp": "2025-07-09T23:06:55.959852",
+    "submission_date": "2025-07-09 23:06:39",
+    "message_id": 31
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "2456884567",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-10T09:40:01.529929",
+    "submission_date": "2025-07-10 09:39:53",
+    "message_id": 32
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "4578466756",
+    "app": "upstox",
+    "status": "approved",
+    "reason": "0",
+    "timestamp": "2025-07-10T13:56:46.678102",
+    "submission_date": "2025-07-10 13:56:04",
+    "message_id": 33
+  },
+  {
+    "email": "lastdayoflife01@gmail.com",
+    "mobile": "4678990579",
+    "app": "upstox",
+    "status": "rejected",
+    "reason": "81",
+    "timestamp": "2025-07-10T14:03:42.070400",
+    "submission_date": "2025-07-10 14:02:08",
+    "message_id": 34
+  }
+]
